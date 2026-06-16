@@ -1,7 +1,5 @@
-# EDR-Comparative-Evaluation-2026
 
-# Comparative Evaluation of 15 EDR Solutions Against Real-World Attack Behaviors
-
+# Comparative Hands-On Evaluation of 15 Endpoint Security Products Across 6 Real-World Attack Scenarios
 ## Overview
 
 This research presents a practical hands-on evaluation of 15 endpoint security products against six attack scenarios designed to represent key stages of the modern attack lifecycle.
